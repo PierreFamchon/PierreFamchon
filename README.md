@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=250&section=header&text=Pierre%20Famchon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Administrateur%20Système%20&%20Réseaux%20|%20Cybersécurité&descAlignY=51&descAlign=50" alt="Header Pierre Famchon" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=35&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&height=100&lines=PIERRE_FAMCHON;Admin+Sys+%26+R%C3%A9seaux;Cybers%C3%A9curit%C3%A9+%7C+NetOps" alt="Typing SVG" />
+  </a>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bcd4&height=2&width=400" />
 </div>
 
 <div align="center">
