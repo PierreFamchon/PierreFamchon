@@ -12,9 +12,12 @@
   [![Portfolio](https://img.shields.io/badge/Mon_Portfolio-En_Ligne-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pierrefamchon.github.io/portfolio-rt/)
   [![Email](https://img.shields.io/badge/Email-Me_Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierre_famchon1@ens.univ-artois.fr)
 
-</div>
+  <br>
+  <br>
 
-![Build Status](https://github.com/PierreFamchon/portfolio-rt/actions/workflows/deploy.yml/badge.svg)](https://github.com/PierreFamchon/portfolio-rt/actions)
+  [![Build Status](https://github.com/PierreFamchon/portfolio-rt/actions/workflows/deploy.yml/badge.svg)](https://github.com/PierreFamchon/portfolio-rt/actions)
+
+</div>
 
 <br />
 
