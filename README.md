@@ -46,7 +46,7 @@ Voici une sélection de mes réalisations techniques les plus significatives.
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
 | **🌐 [Portfolio Infrastructure](https://github.com/PierreFamchon/portfolio-rt)** | (En cours) **DevSecOps & Self-Hosting** : Architecture conteneurisée (**Docker**) sur VPS Oracle Cloud. Pipeline **CI/CD** complet, sécurisation via **Vault** & **Nginx** (Reverse Proxy/SSL) et Backend Node.js. | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) |
-| **🏢 [Infrastructure Corporate](https://github.com/PierreFamchon/System-Network-Infrastructure/tree/main/Corporate-Security-Integration/Professional-Internship-Reports)** | **SysAdmin & NetSec** : Intégration d'une architecture d'entreprise sécurisée. Gestion centralisée (**Active Directory**, GPO), segmentation réseau (**VLAN/OSPF**) et durcissement des services. | ![Windows Server](https://img.shields.io/badge/Win_Server-0078D6?style=flat&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=microsoft&logoColor=white) <br> ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **📡 [Network Auto-Discovery](https://github.com/PierreFamchon/System-Network-Infrastructure/tree/main/Corporate-Security-Integration/Professional-Internship-Reports)** | **NetOps & Automation** : Développement d'une **Source of Truth (SoT)** dynamique. Couplage automatisé entre **NetDisco** (Scan SNMP/LLDP) et **NetBox** (IPAM/DCIM) via scripts **Python** pour l'inventaire temps réel. | ![NetBox](https://img.shields.io/badge/NetBox-00ADD8?style=flat&logo=netbox&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![SNMP](https://img.shields.io/badge/SNMP-404040?style=flat) |
 | **🛡️ [Nom du Projet 3](Lien_vers_repo)** | **Hardening** : Script Python pour l'audit et le durcissement automatique de serveurs Linux. | ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=3776AB) ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=white) |
 
 ---
@@ -57,9 +57,9 @@ Je documente ma progression et mes projets académiques année par année.
 
 | Dépôt | Niveau | Compétences Clés Développées |
 | :--- | :---: | :--- |
-| **📂 [DevOps-SecOps-Automatisation/](https://github.com/PierreFamchon/DevOps-Security-Automatisation)** | 🛡️ | **Cybersécurité & DevOps** : Automatisation d'infrastructure, Hardening, Supervision, Gestion de conteneurs avancée. |
-| **📂 [System-Network-Infrastructure/](https://github.com/PierreFamchon/System-Network-Infrastructure)** | 📡 | **Services & Réseaux** : Routage dynamique (OSPF/BGP), Services (DNS, AD, Web), Virtualisation. |
-| **📂 [Network-Telecom-Fundamentals/](https://github.com/PierreFamchon/Network-Telecom-Fundamentals)** | 💻 | **Fondamentaux** : Architecture réseau (Cisco CCNA 1-3), Scripting Bash, Algorithmique Python. |
+| **📂 [DevOps-SecOps-Automatisation/](https://github.com/PierreFamchon/DevOps-Security-Automatisation)** | 🛡️ 3. | **Cybersécurité & DevOps** : Automatisation d'infrastructure, Hardening, Supervision, Gestion de conteneurs avancée. |
+| **📂 [System-Network-Infrastructure/](https://github.com/PierreFamchon/System-Network-Infrastructure)** | 📡 2. | **Services & Réseaux** : Routage dynamique (OSPF/BGP), Services (DNS, AD, Web), Virtualisation. |
+| **📂 [Network-Telecom-Fundamentals/](https://github.com/PierreFamchon/Network-Telecom-Fundamentals)** | 💻 1. | **Fondamentaux** : Architecture réseau (Cisco CCNA 1-3), Scripting Bash, Algorithmique Python. |
 
 ---
 
