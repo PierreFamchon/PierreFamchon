@@ -14,7 +14,7 @@
 
 </div>
 
-[![Build Status](https://github.com/PierreFamchon/portfolio-rt/actions/workflows/deploy.yml/badge.svg)](https://github.com/PierreFamchon/portfolio-rt/actions)
+![Build Status](https://github.com/PierreFamchon/portfolio-rt/actions/workflows/deploy.yml/badge.svg)](https://github.com/PierreFamchon/portfolio-rt/actions)
 
 <br />
 
