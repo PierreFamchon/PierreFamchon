@@ -66,8 +66,12 @@ Je documente ma progression et mes projets académiques année par année.
 ## 📊 Activité GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PierreFamchon&show_icons=true&theme=radical&locale=fr&count_private=true&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreFamchon&layout=compact&theme=radical&locale=fr&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <a href="https://github.com/PierreFamchon">
+    <img src="https://github-readme-stats.vercel.app/api?username=PierreFamchon&show_icons=true&theme=radical&locale=fr&hide_border=true" height="150" alt="Pierre's Stats" />
+  </a>
+  <a href="https://github.com/PierreFamchon">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreFamchon&layout=compact&theme=radical&locale=fr&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
+  </a>
 </div>
 
 <br />
