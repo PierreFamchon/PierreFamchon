@@ -31,17 +31,29 @@
 
 <div align="center">
 
-| **Système & Virtualisation** | **Réseaux & Sécurité** | **Dev & DevOps** |
+| **Infra, Virtualisation & Cloud** | **Réseaux & Cybersécurité** | **Dev, Web & Automatisation** |
 | :---: | :---: | :---: |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) <br> ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) <br> ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) <br> ![PfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![LXC/KVM](https://img.shields.io/badge/LXC%2FKVM-E57000?style=for-the-badge&logo=linuxcontainers&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Windows Server](https://img.shields.io/badge/Win_Server_&_AD-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![PfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white) <br> ![Kali Linux](https://img.shields.io/badge/Kali_Tools-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white) <br> ![Netbox](https://img.shields.io/badge/Netbox-0097A7?style=for-the-badge&logo=netbox&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) <br> ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br> ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 
 </div>
 
 ---
 
-## 🎓 Cursus & Projets Académiques
+## 🚀 Projets Phares
 
-Je documente ma progression et mes projets techniques année par année.
+Voici une sélection de mes réalisations techniques les plus significatives.
+
+| Projet | Description | Technologies |
+| :--- | :--- | :--- |
+| **🔐 [Nom du Projet 1](Lien_vers_repo)** | **Sujet Principal** : Une description courte (ex: Déploiement automatisé d'un cluster Web sécurisé avec failover). | ![Ansible](https://img.shields.io/badge/-Ansible-000?style=flat&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=2496ED) |
+| **👁️ [Nom du Projet 2](Lien_vers_repo)** | **Supervision** : Mise en place d'un stack de monitoring complet pour une infrastructure hybride. | ![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat&logo=grafana&logoColor=F46800) ![Prometheus](https://img.shields.io/badge/-Prometheus-000?style=flat&logo=prometheus&logoColor=E6522C) |
+| **🛡️ [Nom du Projet 3](Lien_vers_repo)** | **Hardening** : Script Python pour l'audit et le durcissement automatique de serveurs Linux. | ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=3776AB) ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=white) |
+
+---
+
+## 🎓 Cursus & Progression
+
+Je documente ma progression et mes projets académiques année par année.
 
 | Dépôt | Niveau | Compétences Clés Développées |
 | :--- | :---: | :--- |
@@ -51,15 +63,11 @@ Je documente ma progression et mes projets techniques année par année.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Activité GitHub
 
 <div align="center">
-  <a href="https://github.com/PierreFamchon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PierreFamchon&show_icons=true&theme=radical&locale=fr" alt="Pierre's Stats" />
-  </a>
-  <a href="https://github.com/PierreFamchon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreFamchon&layout=compact&theme=radical&locale=fr" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=PierreFamchon&show_icons=true&theme=radical&locale=fr&count_private=true&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreFamchon&layout=compact&theme=radical&locale=fr&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 <br />
