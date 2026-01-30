@@ -45,9 +45,9 @@ Je documente ma progression et mes projets techniques année par année.
 
 | Dépôt | Niveau | Compétences Clés Développées |
 | :--- | :---: | :--- |
-| **[📂 RT3 - Expert](https://github.com/PierreFamchon/RT3-projets)** | 🛡️ | **Cybersécurité & DevOps** : Automatisation d'infrastructure, Hardening, Supervision, Gestion de conteneurs avancée. |
-| **[📂 RT2 - Avancé](https://github.com/PierreFamchon/RT2-projets)** | 📡 | **Services & Réseaux** : Routage dynamique (OSPF/BGP), Services (DNS, AD, Web), Virtualisation. |
-| **[📂 RT1 - Bases](https://github.com/PierreFamchon/RT1-projets)** | 💻 | **Fondamentaux** : Architecture réseau (Cisco CCNA 1-3), Scripting Bash, Algorithmique Python. |
+| **[📂 DevOps-SecOps-Engineering/](https://github.com/PierreFamchon/DevOps-SecOps-Engineering)** | 🛡️ | **Cybersécurité & DevOps** : Automatisation d'infrastructure, Hardening, Supervision, Gestion de conteneurs avancée. |
+| **[📂 System-Network-Infrastructure/](https://github.com/PierreFamchon/RT2-projets)** | 📡 | **Services & Réseaux** : Routage dynamique (OSPF/BGP), Services (DNS, AD, Web), Virtualisation. |
+| **[📂 Network-Telecom-Fundamentals/](https://github.com/PierreFamchon/System-Network-Infrastructure)** | 💻 | **Fondamentaux** : Architecture réseau (Cisco CCNA 1-3), Scripting Bash, Algorithmique Python. |
 
 ---
 
