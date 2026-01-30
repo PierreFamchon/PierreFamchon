@@ -45,7 +45,7 @@ Je documente ma progression et mes projets techniques année par année.
 
 | Dépôt | Niveau | Compétences Clés Développées |
 | :--- | :---: | :--- |
-| **[📂 DevOps-SecOps-Engineering/](https://github.com/PierreFamchon/DevOps-Security-Automation)** | 🛡️ | **Cybersécurité & DevOps** : Automatisation d'infrastructure, Hardening, Supervision, Gestion de conteneurs avancée. |
+| **[📂 DevOps-SecOps-Automatisation/](https://github.com/PierreFamchon/DevOps-Security-Automatisation)** | 🛡️ | **Cybersécurité & DevOps** : Automatisation d'infrastructure, Hardening, Supervision, Gestion de conteneurs avancée. |
 | **[📂 System-Network-Infrastructure/](https://github.com/PierreFamchon/System-Network-Infrastructure)** | 📡 | **Services & Réseaux** : Routage dynamique (OSPF/BGP), Services (DNS, AD, Web), Virtualisation. |
 | **[📂 Network-Telecom-Fundamentals/](https://github.com/PierreFamchon/System-Network-Infrastructure)** | 💻 | **Fondamentaux** : Architecture réseau (Cisco CCNA 1-3), Scripting Bash, Algorithmique Python. |
 
