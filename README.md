@@ -72,8 +72,13 @@ Je documente ma progression et mes projets académiques année par année.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PierreFamchon&show_icons=true&theme=radical&locale=fr&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreFamchon&layout=compact&theme=radical&locale=fr&hide_border=true&langs_count=6)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PierreFamchon&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophées" />
+  </a>
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PierreFamchon&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
