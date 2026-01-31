@@ -65,25 +65,3 @@ Je documente ma progression et mes projets académiques année par année.
 | **📂 [DevOps-SecOps-Automatisation/](https://github.com/PierreFamchon/DevOps-Security-Automatisation)** | 🛡️ 3. | **Cybersécurité & DevOps** : Automatisation d'infrastructure, Hardening, Supervision, Gestion de conteneurs avancée. |
 | **📂 [System-Network-Infrastructure/](https://github.com/PierreFamchon/System-Network-Infrastructure)** | 📡 2. | **Services & Réseaux** : Routage dynamique (OSPF/BGP), Services (DNS, AD, Web), Virtualisation. |
 | **📂 [Network-Telecom-Fundamentals/](https://github.com/PierreFamchon/Network-Telecom-Fundamentals)** | 💻 1. | **Fondamentaux** : Architecture réseau (Cisco CCNA 1-3), Scripting Bash, Algorithmique Python. |
-
----
-
-## 📊 Activité GitHub
-
-<div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PierreFamchon&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophées" />
-  </a>
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PierreFamchon&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <i>"La sécurité n'est pas un produit, c'est un processus."</i>
-</div>
